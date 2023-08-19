@@ -1,10 +1,11 @@
-import { useState } from 'react'
-
+import react from 'react'
+import { Navbar } from "./container";
 
 function App() {
 
   return (
     <section>
+      <Navbar />
       <div>
         It's me
       </div>

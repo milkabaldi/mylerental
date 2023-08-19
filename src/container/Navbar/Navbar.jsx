@@ -1,13 +1,13 @@
 import React from 'react'
 
-export const Navbar = () => {
+const Navbar = () => {
   return (
-    <header>
+    <header className='flex'>
       <div>
         <img src="" alt="Logo" />
       </div>
       <nav>
-        <ul>
+        <ul className='flex'>
           <li>Industries</li>
           <li>Technology</li>
           <li>Driver weith Myle</li>
@@ -17,10 +17,12 @@ export const Navbar = () => {
       </nav>
       <div>
         <div>
-          search
+          Search
         </div>
         <button>Contact Sales</button>
       </div>
     </header>
   )
 }
+
+export default Navbar;

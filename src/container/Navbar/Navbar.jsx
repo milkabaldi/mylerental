@@ -4,15 +4,16 @@ const Navbar = () => {
   return (
     <header className='flex'>
       <div>
+      <div>
         <img src="" alt="Logo" />
       </div>
       <nav>
         <ul className='flex'>
-          <li>Industries</li>
-          <li>Technology</li>
-          <li>Driver weith Myle</li>
-          <li>Blog</li>
-          <li>Contact</li>
+          <li><a href='#'>Industries</a></li>
+          <li><a href='#'>Technology</a></li>
+          <li><a href='#'>Driver weith Myle</a></li>
+          <li><a href='#'>Blog</a></li>
+          <li><a href='#'>Contact</a></li>
         </ul>
       </nav>
       <div>
@@ -21,6 +22,7 @@ const Navbar = () => {
         </div>
         <button>Contact Sales</button>
       </div>
+      </div>  
     </header>
   )
 }

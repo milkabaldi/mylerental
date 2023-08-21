@@ -4,12 +4,12 @@ import { Navbar } from "./container";
 function App() {
 
   return (
-    <section>
+    <>
       <Navbar />
       <div>
         It's me
       </div>
-    </section>
+    </>
   )
 }
 

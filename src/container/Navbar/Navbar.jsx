@@ -1,9 +1,11 @@
 import React from 'react'
+import styles from '../../style';
+
 
 const Navbar = () => {
   return (
-    <header className='flex'>
-      <div>
+    <header className={`${styles.flexStart}`} >
+      <div className={`${styles.boxWidth}`}>
       <div>
         <img src="" alt="Logo" />
       </div>

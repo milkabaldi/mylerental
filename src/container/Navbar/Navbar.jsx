@@ -10,7 +10,7 @@ const Navbar = () => {
         <img src="" alt="Logo" />
       </div>
       <nav>
-        <ul className='flex'>
+        <ul className='flex justify-center items-center'>
           <li><a href='#'>Industries</a></li>
           <li><a href='#'>Technology</a></li>
           <li><a href='#'>Driver weith Myle</a></li>

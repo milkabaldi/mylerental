@@ -1,16 +1,16 @@
 import React from 'react'
 import styles from '../../style';
-
+import images from '../../constants/images.js'
 
 const Navbar = () => {
   return (
     <header className={`${styles.flexStart} pt-9`} >
-      <div className={`${styles.boxWidth} flex justify-between items-center bg-grey py-2.5 px-3`}>
+      <div className={`${styles.boxWidth} flex justify-between items-center bg-grey py-2.5 px-3 rounded-lg`}>
       
       <nav className='flex '>
       <div>
         <a href="#">
-        <img src="" alt="Logo" />
+        <img src={images.Logo} alt="Logo" />
         </a>
        
       </div>

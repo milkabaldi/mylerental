@@ -20,7 +20,6 @@ const Navbar = () => {
           <li><a href='#'>Driver weith Myle</a></li>
           <li><a href='#'>Blog</a></li>
           <li><a href='#'>Contact</a></li>
-          <li><a href='#'>Text</a></li>
         </ul>
       </nav>
       <div className='flex gap-6 items-center'>

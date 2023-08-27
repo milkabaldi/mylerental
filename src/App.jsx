@@ -1,14 +1,12 @@
 import react from 'react'
-import { Navbar } from "./container";
+import { Navbar, Hero } from "./container";
 
 function App() {
 
   return (
     <>
       <Navbar />
-      <div>
-        It's me
-      </div>
+     <Hero />
     </>
   )
 }

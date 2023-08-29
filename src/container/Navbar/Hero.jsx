@@ -5,7 +5,16 @@ const Hero = () => {
     <div> 
       <div>Hero</div>
       <div>Hero</div>
-      <div>Test</div></div>
+      <div>Test</div>
+      <div>Test</div>
+      <div>Test</div>
+      <div>Test</div>
+      <div>Test</div>
+      <div>Test</div>
+      <div>Test</div>
+      <div>Test</div>
+      <div>Test</div>
+    </div>
    
   )
 }

@@ -2,19 +2,12 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div> 
-      <div>Hero</div>
-      <div>Hero</div>
-      <div>Test</div>
-      <div>Test</div>
-      <div>Test</div>
-      <div>Test</div>
-      <div>Test</div>
-      <div>Test</div>
-      <div>Test</div>
-      <div>Test</div>
-      <div>Test</div>
-    </div>
+    <section> 
+      <div className={`${styles.boxWidth} `}>
+        Hero Section
+      </div>
+
+    </section>
    
   )
 }

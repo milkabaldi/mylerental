@@ -4,7 +4,8 @@ const Hero = () => {
   return (
     <section> 
       <div className={`${styles.boxWidth} `}>
-        Hero Section
+        <div>test</div>
+        <div>test</div>
       </div>
 
     </section>

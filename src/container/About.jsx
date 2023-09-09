@@ -7,6 +7,16 @@ export const About = () => {
         <div>Test</div>
         <div>Test</div>
         <div>Test</div>
+        <div>Test</div>
+        <div>Test</div>
+        <div>Test</div>
+        <div>Test</div>
+        <div>Test</div>
+        <div>Test</div>
+        <div>Test</div>
+        <div>Test</div>
+        <div>Test</div>
+        <div>Test</div>
       </div>
     </section>
   )

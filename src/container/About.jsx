@@ -5,18 +5,8 @@ export const About = () => {
     <section>
       <div className='container'>
         <div>Test</div>
-        <div>Test</div>
-        <div>Test</div>
-        <div>Test</div>
-        <div>Test</div>
-        <div>Test</div>
-        <div>Test</div>
-        <div>Test</div>
-        <div>Test</div>
-        <div>Test</div>
-        <div>Test</div>
-        <div>Test</div>
-        <div>Test</div>
+        <div>not today</div>
+
       </div>
     </section>
   )

@@ -6,6 +6,10 @@ export const About = () => {
       <div className='container'>
         <div>Test</div>
         <div>not today</div>
+        <div>not today</div>
+        <div>not today</div>
+        <div>not today</div>
+        <div>not today</div>
 
       </div>
     </section>

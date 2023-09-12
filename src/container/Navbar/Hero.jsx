@@ -4,8 +4,14 @@ const Hero = () => {
   return (
     <section> 
       <div className={`${styles.boxWidth} `}>
-        <h2>Hero my rental</h2>
-
+       <div>logo</div>
+       <nav>
+        <ul>
+          <li>one</li>
+          <li>two</li>
+          <li>three</li>
+        </ul>
+       </nav>
       </div>
 
     </section>

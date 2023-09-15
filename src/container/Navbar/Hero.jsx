@@ -7,12 +7,12 @@ const Hero = () => {
        <div>logo</div>
        <nav>
         <ul>
-          <li>one</li>
-          <li>two</li>
-          <li>three</li>
-          <li>four</li>
-          <li>five</li>
-          <li>six</li>
+          <li>Myrentalcar</li>
+          <li>Myrentalcar</li>
+          <li>Myrentalcar</li>
+          <li>Myrentalcar</li>
+          <li>Myrentalcar</li>
+          <li>Myrentalcar</li>
         </ul>
         <ul>
           <li>one</li>

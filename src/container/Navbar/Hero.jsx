@@ -10,16 +10,6 @@ const Hero = () => {
           <li>Myrentalcar</li>
           <li>Myrentalcar</li>
           <li>Myrentalcar</li>
-          <li>Myrentalcar</li>
-          <li>Myrentalcar</li>
-          <li>Myrentalcar</li>
-        </ul>
-        <ul>
-        <li>Myrentalcar</li>
-        <li>Myrentalcar</li>
-        <li>Myrentalcar</li>
-        <li>Myrentalcar</li>
-          <li>six</li>
         </ul>
        </nav>
       </div>

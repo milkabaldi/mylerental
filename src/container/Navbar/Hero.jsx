@@ -4,14 +4,16 @@ const Hero = () => {
   return (
     <section> 
       <div className={`${styles.boxWidth} `}>
-       <div>logo</div>
-       <nav>
-        <ul>
-          <li>Myrentalcar</li>
-          <li>Myrentalcar</li>
-          <li>Myrentalcar</li>
-        </ul>
-       </nav>
+        <div>
+            <span>Car Rental</span>
+            <h1>Rent ADA Compliant Wheelchair 
+Accessible Vehicle’s Nationwide </h1>
+<p>Various ADA compliant wheelchair accessible vehicles available for rent nationwide. </p>
+<button>Inquire Now</button>
+        </div>
+        <figure>
+          <img src="" alt="Cars" />
+        </figure>
       </div>
 
     </section>

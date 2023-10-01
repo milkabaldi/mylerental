@@ -17,6 +17,15 @@ export const About = () => {
           </p>
           <p>Being an industry leader, we have recognized the difficulties encountered by our private use clients nationwide in need of a wheelchair accessible vehicle rental. We set out to provide comfortable, reliable options for you, your family, and your travel needs. We help alleviate those stresses with our wide range of ADA compliant vehicles and unique rental options.
           </p>
+          <p>Being an industry leader, we have recognized the difficulties encountered by our private use clients nationwide in need of a wheelchair accessible vehicle rental. We set out to provide comfortable, reliable options for you, your family, and your travel needs. We help alleviate those stresses with our wide range of ADA compliant vehicles and unique rental options.
+          </p>
+          <p>Being an industry leader, we have recognized the difficulties encountered by our private use clients nationwide in need of a wheelchair accessible vehicle rental. We set out to provide comfortable, reliable options for you, your family, and your travel needs. We help alleviate those stresses with our wide range of ADA compliant vehicles and unique rental options.
+          </p>
+          <p>Being an industry leader, we have recognized the difficulties encountered by our private use clients nationwide in need of a wheelchair accessible vehicle rental. We set out to provide comfortable, reliable options for you, your family, and your travel needs. We help alleviate those stresses with our wide range of ADA compliant vehicles and unique rental options.
+          </p>
+          <h2>test</h2>
+          <p>Being an industry leader, we have recognized the difficulties encountered by our private use clients nationwide in need of a wheelchair accessible vehicle rental. We set out to provide comfortable, reliable options for you, your family, and your travel needs. We help alleviate those stresses with our wide range of ADA compliant vehicles and unique rental options.
+          </p>
       </div>
     </section>
   )

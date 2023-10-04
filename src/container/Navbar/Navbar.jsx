@@ -24,7 +24,7 @@ const Navbar = () => {
       </nav>
       <div className='flex gap-6 items-center'>
         <div>
-          Search test
+          Search test test test
         </div>
         <button>Contact Sales</button>
       </div>

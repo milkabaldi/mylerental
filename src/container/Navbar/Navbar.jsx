@@ -27,6 +27,8 @@ const Navbar = () => {
           Search test test test
         </div>
         <button>Contact Sales</button>
+        <button>Contact Sales</button>
+        <button>Contact Sales</button>
       </div>
       </div>  
     </header>

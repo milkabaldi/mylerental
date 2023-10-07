@@ -34,6 +34,14 @@ const Navbar = () => {
         </div>
         <button>Contact Sales</button>
       </div>
+        <button>Contact Sales</button>
+      </div>
+        <button>Contact Sales</button>
+      </div>
+        <button>Contact Sales</button>
+      </div>
+        <button>Contact Sales</button>
+      </div>
       </div>  
     </header>
   )

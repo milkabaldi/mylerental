@@ -12,6 +12,9 @@ export const About = () => {
 TEST
 TEST
 TEST
+TEST
+TEST
+TEST
 
 
       </div>

@@ -7,7 +7,7 @@ const Navbar = () => {
     <header className={`${styles.flexStart} pt-9`} >
       <div className={`${styles.boxWidth} flex justify-between items-center bg-grey py-2.5 px-3 rounded-lg`}>
       
-      <nav className='flex '>
+      <nav className='flex'>
       <div>
         <a href="#">
         <img src={images.Logo} alt="Logo" />
@@ -23,26 +23,9 @@ const Navbar = () => {
         </ul>
       </nav>
       <div className='flex gap-6 items-center'>
-        <div>
-          Search test test test
-        </div>
-        <div>
-          Search test test test
-        </div>
-        <div>
-          Search test test test
-        </div>
         <button>Contact Sales</button>
       </div>
-        <button>Contact Sales</button>
       </div>
-        <button>Contact Sales</button>
-      </div>
-        <button>Contact Sales</button>
-      </div>
-        <button>Contact Sales</button>
-      </div>
-      </div>  
     </header>
   )
 }

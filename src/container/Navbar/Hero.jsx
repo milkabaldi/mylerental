@@ -10,6 +10,10 @@ const Hero = () => {
             <span>Car Rental</span>
             <h1>Rent ADA Compliant Wheelchair Accessible Vehicle’s Nationwide </h1>
             <p>Various ADA compliant wheelchair accessible vehicles available for rent nationwide. </p>
+            <p>Various ADA compliant wheelchair accessible vehicles available for rent nationwide. </p>
+            <p>Various ADA compliant wheelchair accessible vehicles available for rent nationwide. </p>
+            <p>Various ADA compliant wheelchair accessible vehicles available for rent nationwide. </p>
+            <p>Various ADA compliant wheelchair accessible vehicles available for rent nationwide. </p>
             <button>Inquire Now</button>
         </div>
         <figure>

@@ -6,11 +6,9 @@ function App() {
   return (
     <>
       <Navbar />
-      <Navbar />
-      <Hero />
       <Hero />
       <About />
-      <About />
+
     </>
   )
 }

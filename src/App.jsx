@@ -8,9 +8,6 @@ function App() {
       <Navbar />
       <Hero />
       <About />
-      test
-      test
-      test
     </>
   )
 }

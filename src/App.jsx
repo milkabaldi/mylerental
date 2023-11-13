@@ -5,9 +5,11 @@ function App() {
 
   return (
     <>
+    Test
       <Navbar />
       <Hero />
       <About />
+      Test
     </>
   )
 }

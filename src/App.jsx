@@ -10,6 +10,10 @@ function App() {
       <Hero />
       <About />
       Test
+      Test
+      Test
+
+
     </>
   )text
 }

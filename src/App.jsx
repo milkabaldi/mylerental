@@ -10,6 +10,7 @@ function App() {
       <About />
       <Price />
       <Price />
+      <Price />
     </>
   )
 }

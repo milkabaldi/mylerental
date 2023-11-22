@@ -9,8 +9,6 @@ function App() {
       <Hero />
       <About />
       <Price />
-      <Price />
-      <Price />
     </>
   )
 }

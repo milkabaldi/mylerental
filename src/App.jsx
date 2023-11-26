@@ -11,6 +11,8 @@ function App() {
       <Price />
       test
       test
+      test
+      test
     </>
   )
 }

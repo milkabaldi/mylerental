@@ -9,10 +9,6 @@ function App() {
       <Hero />
       <About />
       <Price />
-      test
-      test
-      test
-      test
     </>
   )
 }

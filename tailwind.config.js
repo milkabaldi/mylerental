@@ -7,6 +7,9 @@ module.exports = {
         primary: "#00040f",
         secondary: "#fff",
         grey: "#31353A",
+        rBlue: "#3772E1",
+        rDarkBlue: "#2C5BB4",
+        rYellow: "#F5C473",
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],

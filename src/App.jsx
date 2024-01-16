@@ -1,5 +1,5 @@
 import react from 'react'
-import { Navbar, Hero, About, } from "./container";
+import { Navbar, Hero, About, Fleet } from "./container";
 
 function App() {
 
@@ -8,6 +8,7 @@ function App() {
       <Navbar />
       <Hero />
       <About />
+      <Fleet />
     </>
   )
 }

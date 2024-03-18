@@ -10,7 +10,7 @@ const Hero = () => {
             <span className='text-base mb-2 font-extrabold text-rYellow'>Car Rental</span>
             <h1 className='text-4xl mb-4 font-extrabold'>Rent ADA Compliant Wheelchair Accessible Vehicle’s Nationwide </h1>
             <p className='text-sm text-grey mb-10'>Various ADA compliant wheelchair accessible vehicles available for rent nationwide. </p>
-            <button className='bg-rBlue text-secondary hover:bg-rDarkBlue'>Inquire Now</button>
+            <button className='bg-rBlue text-secondary hover:bg-rDarkBlue'>Inquire Now Not Now</button>
         </div>
         <figure className='w-2/4'>
           <img src={images.HeroCar} alt="Cars" />

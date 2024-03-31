@@ -13,7 +13,7 @@ const Hero = () => {
             <button className='bg-rBlue text-secondary hover:bg-rDarkBlue'>Inquire Now Not Now</button>
         </div>
         <figure className='w-2/4'>
-          <img src={images.HeroCar} alt="Rental Cars" />
+          <img src={images.HeroCar} alt="Rental Cars Cars" />
         </figure>
       </div>
 

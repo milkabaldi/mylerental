@@ -18,6 +18,7 @@ const Navbar = () => {
           <li><a href='#'> Industries </a></li>
           <li><a href='#'>  Technology </a></li>
           <li><a href='#'>Driver weith Myle</a></li>
+          <li><a href='#'>Driver weith Myle </a></li>
           <li><a href='#'>Blog</a></li>
           <li><a href='#'>Contact</a></li>
         </ul>

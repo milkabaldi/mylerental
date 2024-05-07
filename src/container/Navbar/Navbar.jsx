@@ -17,7 +17,7 @@ const Navbar = () => {
         <ul className='flex items-center gap-5 px-8'>
           <li><a href='#'> Industries </a></li>
           <li><a href='#'>  Technology </a></li>
-          <li><a href='#'>Driver weith Myle</a></li>
+          <li><a href='#'>Driver weith Myleeee</a></li>
           <li><a href='#'>Blog</a></li>
           <li><a href='#'>Contact</a></li>
         </ul>

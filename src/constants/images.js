@@ -10,6 +10,9 @@ import Wheel  from '../assets/wheelchair.png'
 import Secure  from '../assets/secure.png'
 import Auto  from '../assets/Auto.png'
 import Component11  from '../assets/Component11.png'
+import benCarOne from '../assets/benCarOne.png'
+import benCarTwo from '../assets/benCarTwo.png'
+import benCarThree from '../assets/benCarThree.png'
 
 
 
@@ -29,7 +32,8 @@ export default {
     Secure,
     Auto,
     Component11,
-
-
+    benCarOne,
+    benCarTwo,
+    benCarThree,
 
 }

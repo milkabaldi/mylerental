@@ -1,5 +1,5 @@
 import react from 'react'
-import { Navbar, Hero, About, Fleet } from "./container";
+import { Navbar, Hero, About, Fleet, Benefits } from "./container";
 
 function App() {
 
@@ -9,6 +9,7 @@ function App() {
       <Hero />
       <About />
       <Fleet />
+      <Benefits />
     </>
   )
 }

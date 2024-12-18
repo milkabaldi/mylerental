@@ -16,7 +16,6 @@ const Benefits = () => {
                         <li>Unlimited daily mileage </li>
                         <li>Foldable wheelchairs available</li>
                         <li>Car seats available for you</li>
-                        
                     </ul>
                 </div>
                 <div className='benImg'>

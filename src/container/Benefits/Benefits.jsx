@@ -19,7 +19,7 @@ const Benefits = () => {
                     </ul>
                 </div>
                 <div className='benImg'>
-                    <img src={images.benCarOne} alt="Nulla test" />
+                    <img src={images.benCarOne} alt="Cars" />
                 </div>
             </div>
         </div>

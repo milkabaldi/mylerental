@@ -15,11 +15,11 @@ const Benefits = () => {
                         <li>Curb side and airport deliveries available </li>
                         <li>Unlimited daily mileage </li>
                         <li>Foldable wheelchairs available</li>
-                        <li>Car seats available for you and your friends</li>
+                        <li>Car seats available for you and your friend</li>
                     </ul>
                 </div>
                 <div className='benImg'>
-                    <img src={images.benCarOne} alt="Slider Cars Images" />
+                    <img src={images.benCarOne} alt="Slider Cars Image" />
                 </div>
             </div>
         </div>

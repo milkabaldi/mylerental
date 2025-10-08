@@ -14,7 +14,7 @@ const Benefits = () => {
                     <ul>
                         <li>Curb side and airport deliveries available </li>
                         <li>Unlimited daily mileage </li>
-                        <li>Foldable wheelchairs available</li>
+                        <li>Foldable wheelchairs available!</li>
                         <li>Car seats available for you!</li>
                     </ul>
                 </div>
